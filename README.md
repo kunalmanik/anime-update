@@ -6,3 +6,4 @@ There might be a problem with a few anime series and this is most probably becau
 Just copy the link of episodes menu of your anime and replace "url" with it.
 
 There you go!
+For Python 3.x, new script added - "anime-list.py"
